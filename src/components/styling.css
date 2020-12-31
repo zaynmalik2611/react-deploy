@@ -1,0 +1,11 @@
+.stressTitle {
+  text-align: center;
+}
+.punchDiv {
+  display: flex;
+}
+
+.punchArea {
+  cursor: url(punch.png), auto !important;
+  outline: none;
+}
